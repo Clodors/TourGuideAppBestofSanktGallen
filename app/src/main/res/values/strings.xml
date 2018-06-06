@@ -1,0 +1,111 @@
+<resources>
+    <string name="app_name">Tour Guide Region Sankt Gallen</string>
+
+    <string name="attractions_fragment_title">Attractions</string>
+    <string name="museums_fragment_title">Museums</string>
+    <string name="nature_fragment_title">Nature</string>
+    <string name="zoo_title">Zoo</string>
+
+
+    <!-- string array for attractions -->
+    <string-array name="attractions">
+        <item>Abbey Library</item>
+        <item>Fuerstabtei</item>
+        <item>Kathedrale</item>
+        <item>Wooden Bridge From Rapperswil To Hurden</item>
+        <item>Forum Wuerth Rorschach</item>
+    </string-array>
+    <!-- -->
+
+    <string-array name="attractions_location">
+        <item>Klosterhof 6D, 9004 St. Gallen Tel: +41 (0)71 227 34 16</item>
+        <item>Klosterhof 6B, 9000 St. Gallen Schweiz Tel: +41 (0)71 227 33 38</item>
+        <item>Museumstrasse 32, 9000 St.Gallen Schweiz Tel: +41 (0)71 242 06 71</item>
+        <item>8640 Rapperswil, Schweiz</item>
+        <item>Museumstrasse 32, 9000 St.Gallen Schweiz Tel: +41 (0)71 242 06 71</item>
+    </string-array>
+    <!-- -->
+    <string-array name="attractions_desc">
+        <item>The abbey library, the oldest library in Switzerland with a unique book inventory, is today an active lending library. It owns around 170,000 books and other media, from which documents published after 1900 can be borrowed. The new acquisitions of the last months can be found here.</item>
+        <item>The Fuerstabtei St. Gallen was a Benedictine abbey in the eastern Switzerland and after the monastery Saeckingen the second oldest monastery in the area of ​​the Alemanni.</item>
+        <item>Come to us in the birds of prey and owl park in Buchs SG and experience our eagles, buzzards, Karakaras, falcons, vultures, owls and owls from close proximity.</item>
+        <item>With Rapperswil-Hurden wooden bridge, the prehistoric sea crossings in the area of ​​the Seedamm as well as historic bridge constructions, such as the wooden bridge built between 1358 and 1360 on behalf of Rudolf IV of Habsburg-Austria, and until 1878 usable new buildings.</item>
+        <item>The Forum Würth Rorschach is the museum area of ​​the Würth Haus Rorschach. All activities are based on the Würth collection, which has around 18,000 works and is internationally oriented.</item>
+    </string-array>
+    <!-- end of mall -->
+
+    <!-- string array for museum -->
+    <string-array name="museums">
+        <item>Naturmuseum</item>
+        <item>Festungs Museum Heldsberg</item>
+        <item>Museum Appenzell</item>
+        <item>Saurer Museum</item>
+        <item>Kunstmuseum</item>
+    </string-array>
+    <!-- -->
+
+    <string-array name="museum_location">
+        <item>Rorschacher Strasse 263, 9016 St.Gallen Schweiz Tel: +41 (0)71 243 40 40</item>
+        <item>Obere Heldsbergstrasse, 9430 St. Margrethen SG Schweiz Tel: +41 (0)71 733 40 31</item>
+        <item>Hauptgasse 4, 9050 Appenzell Schweiz Tel: +41 (0)71 788 96 31</item>
+        <item>Arbon Tourismus Schmiedgasse 5, 9320 Arbon Schweiz Tel: +41 (71) 440 13 80</item>
+        <item>Museumstrasse 32, 9000 St. Gallen Schweiz Tel: +41 71 242 06 71</item>
+    </string-array>
+    <!-- -->
+    <string-array name="museum_desc">
+        <item>The new building offers on an area of ​​2000 m² plenty of space for the diverse permanent exhibition. The scenographic concept is based on an open design and accessible spatial images. Only especially valuable objects are protected behind glass.7 Subject areas.</item>
+        <item>The artillery factory Heldsberg was part of the border fortification in the Rhine Valley. Due to its location it controlled with its four 7.5 cm fortress guns in the north of the eastern part of Lake Constance and in the south, the Rhine crossings in the Rhine Valley to Montlingen.</item>
+        <item>The extensive collection of the Museum Appenzell includes around 25,000 objects from different areas. It provides a deeper insight into a rural everyday culture.</item>
+        <item>Our museum, located in the picturesque town of Arbon on Lake Constance in Switzerland, shows commercial vehicles, engines and all types of embroidery and weaving machines made in Arbon.</item>
+        <item>The Kunstmuseum St.Gallen houses a rich collection of paintings and sculptures from the late Middle Ages to the present.</item>
+    </string-array>
+    <!-- end of bank -->
+
+    <!-- string array for nature-->
+    <string-array name="nature">
+        <item>Saentis Mountain</item>
+        <item>Kurpark Bad Ragatz</item>
+        <item>Botanical Garden</item>
+        <item>Heidi Village</item>
+    </string-array>
+    <!-- -->
+    <string-array name="nature_location">
+        <item>CH-9107 Schwaegalp Saentis, Schweiz Tel: +41 71 365 65 45</item>
+        <item>Kurpark Bad Ragaz, 7310 Bad Ragaz Schweiz</item>
+        <item>Stephanshornstrasse 4, 9016 St. Gallen Schweiz Tel: +41 (0)71 224 45 14</item>
+        <item>Postfach, 7304 Maienfeld Schweiz Tel: +41 (0)81 330 19 12</item>
+    </string-array>
+    <!-- -->
+    <string-array name="nature_desc">
+        <item>The Säntis is at 2501.9 m above sea level. M. the highest mountain in the Alpstein. Due to the exposed, north-facing location of the Alpstein, the mountain is a landmark visible from afar.</item>
+        <item>Very beautiful park with gardens and a small lake with swans and ducks. Very well suited to relax and have a conversation with his sweetheart.</item>
+        <item>Around 8,000 labeled plants from all over the world, guided tours and exhibitions on botanical topics, regular publications on plants. With this rich offer, the Botanic Garden lives up to its task as a place of education. Not all, however, come to the Botanical Garden to experience a botanical flight.</item>
+        <item>Experience an emotional journey back in time to the Swiss mountains of the 19th century - back to the time of Heidi. In the Heidi village above Maienfeld, visitors dive right into the \"Dörfli\" from Johanna Spyri\'s world-famous novel.</item>
+    </string-array>
+    <!--  -->
+
+    <!-- string array for zoo-->
+    <string-array name="zoo">
+        <item>Knies Kinderzoo</item>
+        <item>Peter and Paul</item>
+        <item>Walter Zoo</item>
+        <item>Greifvogelpark</item>
+    </string-array>
+    <!-- -->
+    <string-array name="zoo_location">
+        <item>Oberseestrasse 36, 8640 Rapperswil, Schweiz Tel: +41 (0)55 220 67 60</item>
+        <item>Kirchlistrasse 92, 9010 St. Gallen Schweiz Tel: +41 71 244 51 13</item>
+        <item>Neuchlen 200, 9200 Gossau, Schweiz Tel: +41 (0)71 387 50 50</item>
+        <item>Schützenhausweg 8, 9470 Buchs SG Schweiz Tel: +41 (0)81 740 52 01</item>
+    </string-array>
+    <!-- -->
+    <string-array name="zoo_desc">
+        <item>Knies Kinderzoo is a zoological garden in Rapperswil in the Swiss canton of St. Gallen, The zoo belongs to the Swiss National Circus Knie and is part of its winter quarters.</item>
+        <item>On the outskirts of the city of St.Gallen, surrounded by nature, you can experience the local wildlife in the Peter and Paul Wildlife Park, opened in 1892. The location of the park also gives visitors a magnificent view towards Lake Constance or Alpstein.</item>
+        <item>The adventure land Walter Zoo thrills young and old explorers. Around 700 animals from more than 120 different animal species make the visit a unique experience. Experience adventure - for the whole family!</item>
+        <item>Come to us in the birds of prey and owl park in Buchs SG and experience our eagles, buzzards, Karakaras, falcons, vultures, owls and owls from close proximity.</item>
+    </string-array>
+
+
+
+</resources>
